@@ -58,8 +58,8 @@ Para começar a utilizar o app, você deve ir a <b>Aba Home</b> e habilitar o mo
 
 <table>
   <tr>
-    <td><img src="imgs/lumen_home_off.jpg" title="Lumen Privacy Monitor - Desabilitado"></td>
-    <td><img src="imgs/lumen_home_on.jpg" title="Lumen Privacy Monitor - Habilitado"></td>
+    <td><img src="imgs/lumen_home_off.jpg" width="50%" height="50%" title="Lumen Privacy Monitor - Desabilitado"></td>
+    <td><img src="imgs/lumen_home_on.jpg" width="50%" height="50%" title="Lumen Privacy Monitor - Habilitado"></td>
   </tr>
 </table>
 
@@ -75,8 +75,8 @@ A partir deste ponto você pode realizar uma análise geral de todos os apps mon
 
 <table>
   <tr>
-    <td><img src="#" title="#"></td>
-    <td><img src="#" title="#"></td>
+    <td><img src="imgs/lumen_leaks_general.jpg" width="50%" height="50%" title="Lumen Privacy Monitor - Aba Leaks"></td>
+    <td><img src="imgs/lumen_traffic_general.jpg" width="50%" height="50%" title="Lumen Privacy Monitor - Aba Traffic"></td>
   </tr>
 </table>
 
@@ -84,10 +84,10 @@ Para uma análise específica, selecione o app de seu interesse na <b>Aba Apps</
 
 <table>
   <tr>
-    <td><img src="#" title="#"></td>
-    <td><img src="#" title="#"></td>
-    <td><img src="#" title="#"></td>
-    <td><img src="#" title="#"></td>
+    <td><img src="imgs/lumen_flows_specific.jpg" title="Lumen Privacy Monitor - Aba Flows"></td>
+    <td><img src="imgs/lumen_leaks_specific.jpg" title="Lumen Privacy Monitor - Aba Leaks"></td>
+    <td><img src="imgs/lumen_traffic_specific.jpg" title="Lumen Privacy Monitor - Aba Traffic"></td>
+    <td><img src="imgs/lumen_more_specific.jpg" title="Lumen Privacy Monitor - Aba More"></td>
   </tr>
 </table>
 
